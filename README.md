@@ -21,7 +21,6 @@ INSERT INTO Accounts VALUES(2, 2500.00);
 ```
 # OUTPUT
 ![280514431-2f35d3f2-474d-4366-ade6-d0a151da1d2c](https://github.com/sivabalan28/EX-8-Simulating-deadlock-scenario/assets/113497347/3fc33bd6-ae68-413c-a291-6ee6b751991f)
-Now, let's set up the two transactions T1 and T2:
 # Transaction T1
 ```
 BEGIN TRANSACTION;
